@@ -37,7 +37,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <div class="container mt-5">
     <h2>Edit User</h2>
     
-    //creating the form
+    
     <form method="POST">
         <div class="mb-3">
             <label>First Name</label>
